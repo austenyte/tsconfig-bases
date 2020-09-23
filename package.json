@@ -1,0 +1,20 @@
+{
+  "name": "@austenyte/tsconfig-bases",
+  "version": "0.0.1",
+  "description": "tsconfig.json bases for several typescript projects",
+  "keywords": [
+    "tsconfig",
+    "typescript"
+  ],
+  "author": "Kay <hgs0426@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/austenyte/tsconfig-bases.git"
+  },
+  "bugs": {
+    "url": "https://github.com/austenyte/tsconfig-bases/issues"
+  },
+  "homepage": "https://github.com/austenyte/tsconfig-bases#readme"
+}
